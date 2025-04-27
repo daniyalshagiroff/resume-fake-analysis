@@ -172,3 +172,31 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Python files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.env/
+
+# Environment variables and API keys
+*.env
+*.key
+*.json
+
+# Logs
+*.log
+
+# Databases
+*.db
+
+# VS Code and IDE settings
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
