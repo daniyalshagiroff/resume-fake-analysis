@@ -1,0 +1,32 @@
+# Core Python Libraries
+pandas
+numpy
+
+# LLM and Prompt Management
+openai
+langchain
+
+# Web Search APIs
+requests
+
+# Optional: if you want to use Bing or SerpAPI
+serpapi
+
+# Web Framework (for simple UI)
+streamlit
+
+# Environment Management
+python-dotenv
+
+# For parsing and working with HTML (if needed)
+beautifulsoup4
+
+# Logging and Progress Bars (optional but helpful)
+tqdm
+
+# Local Development
+uvicorn
+fastapi
+
+# (Optional) For handling retries and robustness
+tenacity
